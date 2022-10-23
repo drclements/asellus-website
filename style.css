@@ -1,5 +1,7 @@
 body {
-    Background: rgb(231, 231, 231);
+    background:url("Photos/pexels-trace-hudson-2529973.jpg");
+    background-blend-mode: soft-light;
+    background-size:cover;
 }
 
 h2 {
@@ -9,7 +11,7 @@ h2 {
 header {
     width: 720px;
     padding: 10px;
-    border: 5px solid rgb(151, 151, 151);
+    border: 5px solid #34414a;
     margin: 0;
     background-color: rgb(255, 255, 255);
     text-align: center;
@@ -32,7 +34,7 @@ p {
 #bio {
     width: 720px;
     padding: 10px;
-    border: 5px solid rgb(151, 151, 151);
+    border: 5px solid #34414a;
     margin: 0;
     background-color: rgb(255, 255, 255);
     margin-left: auto;
@@ -44,7 +46,7 @@ a {
     padding: 10px;
     padding-left: 96px;
     padding-right: 96px;
-    border: 5px solid rgb(151, 151, 151);
+    border: 5px solid #34414a;
     background-color: rgb(255, 255, 255);
     width: 100%;
    
