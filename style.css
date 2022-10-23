@@ -1,3 +1,57 @@
 body {
-    Background: rgb(214, 214, 224);
+    Background: rgb(231, 231, 231);
+}
+
+h2 {
+    font-style: italic;
+}
+
+header {
+    width: 720px;
+    padding: 10px;
+    border: 5px solid rgb(151, 151, 151);
+    margin: 0;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    text-align: center;
+    max-width: 650px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#bio {
+    width: 720px;
+    padding: 10px;
+    border: 5px solid rgb(151, 151, 151);
+    margin: 0;
+    background-color: rgb(255, 255, 255);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a {
+    
+    padding: 10px;
+    border: 5px solid rgb(151, 151, 151);
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+   
+}
+
+#links {
+  text-align: center;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right:auto;
+   
 }
